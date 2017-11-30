@@ -1,0 +1,13 @@
+#+MACRO: FIRST    Adam
+#+MACRO: LAST     Skobodziński
+#+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
+#+MACRO: BLOG     https://skobo.pl
+#+MACRO: EMAIL    john@doe.pl
+#+MACRO: PHONE    +48 123 456 798
+#+MACRO: CODE     https://github.com/adamskopl
+#+MACRO: ADDRESS1 Sesame Street
+#+MACRO: ADDRESS2 Warsaw, Poland
+#+MACRO: JOBTITLE Software_developer
+#+MACRO: TITLE {{{JOBTITLE}}}, {{{BLOG}}}
+
+#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{TITLE}}} }{ {{{EMAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }

@@ -1,0 +1,103 @@
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: hidestars indent
+#+INCLUDE: personal-info.org
+#+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+
+{{{HEADER}}}
+
+* About me
+
+- I'm a software developer with good organizational and analytical skills.
+- I participate in projects with energy and enthusiasm. I take initiative by
+  proposing and implementing steps needed to improve project's and team’s
+  status.
+- I strive to have a solid understanding of the project's domain, its
+  requirements and used tools.
+- I feel responsible for my work. I appreciate solidness and simplicity.
+
+* Experience
+** Samsung Poland R&D Center
+*** September 2015 - Present
+
+- Currently:
+  - Developing authoring tools (Javascript + frameworks).
+  - Managing work for a small dev team.
+- Previously:
+  - Developed Samsung Smart TV applications (Javascript).
+  - Developed frontend for set-top boxes (Javascript).
+  - Developed Open source 'Browser' project (C/C++, Enlightenment Foundation
+    Libraries).
+
+** Endofox Adam Skobodziński (business activity)
+*** September 2015 - End of 2017
+
+- Developed desktop applications and websites (example: http://biurodepan.pl/).
+
+** Transition Technologies (Białystok)
+*** April 2015 – July 2015
+
+- Developed Java Enterprise software.
+
+** Software Developer C/C++/Qt [[http://www.novamedia.pl/][Novamedia Innovision]] (Wroclaw)
+*** September 2011 – July 2014
+
+- Developed the components of the Passenger Information Systems (GUI based
+  solutions, CCTV software, embedded software and others).
+- Leaded and developed the "Central Vehicle Terminal" project (terminal being
+  used by bus drivers).
+
+* Projects
+** Safedrive *UPDATE NEEDED* https://adam.skobo.pl/posts/safedrive-project/
+***  Javascript
+
+- Interactive web presentation showing dangerous traffic situations.
+
+** Hobby project *UPDATE NEEDED* https://adam.skobo.pl/tags/mining-game/
+*** Javascript
+
+- Minimalistic, responsive logic game. To practice Javascript and functional
+  programming.
+
+** Cubicforest *UPDATE NEEDED* https://adam.skobo.pl/tags/cubicforest/
+*** Java
+
+- Mobile logic game with isometric objects rendered from 3d models.
+
+** Buildings Editor "Citycube" *UPDATE NEEDED* https://adam.skobo.pl/posts/buildings-editor/
+*** C++/Qt/Java/OpenGL
+
+- Bachelor thesis project. 3d buildings editor and explorer applications.
+
+* Education
+** Białystok Technical University, Faculty of Computer Science
+*** October 2007 - February 2011
+
+- *Finished bachelor thesis project*: "3d Buildings Editor"
+  *UPDATE NEEDED* https://adam.skobo.pl/posts/buildings-editor/.
+- *Science club*: I was a founder and coordinator of the science club
+  'PrawieGry' about games development.
+
+* Skills
+
+  - *Currently focused on*: Javascript, web development (commercial experience
+    with Aurelia, AngularJS, vanilla JS solutions), functional programming.
+  - *Working with*: Linux, Bash, Git.
+  - *Have worked with*: C/C++, Python, Java, QT/QML, OpenGL, EFL.
+  - I _LOVE_ *code refactoring*, *writing tests* and *documenting things*. [fn:1]
+  - *Editor/IDE of choice*: Emacs for personal and light quests. Webstorm for heavy duty.
+  - *English level B2+*. Fluent.
+
+* Hobby
+
+- Just keeping busy. Also: reading, crossfit, board games.
+
+* I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the Personal Data Protection Act as of 29 August 1997, consolidated text: Journal of Laws 2016, item 922 as amended. I also hereby give consent for my personal data to be processed for the purposes of the future recruitments.
+* Made with LaTeX and [[https://www.gnu.org/software/emacs/][Emacs]]+[[https://orgmode.org/][OrgMode]].
+
+* Footnotes
+
+[fn:1] Seriously!
