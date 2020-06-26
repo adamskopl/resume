@@ -1,1 +1,2 @@
-copied from https://github.com/punchagan/resume
+- my resume: [resume.pdf](https://github.com/adamskopl/resume/raw/master/resume-adam-skobodzinski.pdf)
+- template copied from https://github.com/punchagan/resume
